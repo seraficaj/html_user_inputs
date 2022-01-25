@@ -9,7 +9,7 @@ This exercise involves converting a given skeleton text file into a valid, inter
 ## Requirements
 * The page title should be, **General Assembly Account Creation**
 * The "Web Dev" radio button should be selected as default when the page loads.
-* Anything entered in the password input should appear as hidden *'s
+* Anything entered in the password input should appear as hidden •'s
 * The "yes" checkbox for subscribing to the newsletter should automatically be checked by default when the page loads.
 * Copy and paste your HTML into [the W3C HTML validator](https://validator.w3.org/#validate_by_input) and make sure it validates without errors
 
